@@ -1,6 +1,6 @@
 # Repetier-Firmware - the fast and user friendly firmware
 
-## Installation v2
+## Installation
 
 Please use your configuration tool at 
 [http://www.repetier.com/firmware/v092](http://www.repetier.com/firmware/v092)
